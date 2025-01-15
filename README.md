@@ -71,7 +71,7 @@ pip install cirq numpy matplotlib qualtran
 
 ## Results
 
-For a more elaborate explanation of the project and an analysis of the results refer to the "code-concatenation-presentationd.pdf" file.
+For a more elaborate explanation of the project and an analysis of the results refer to the "code-concatenation-presentation.pdf" file.
 
 ## Acknowledgments
 
